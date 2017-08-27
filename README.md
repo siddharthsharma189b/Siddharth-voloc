@@ -1,4 +1,3 @@
 # Voloc-Web
 ### Voloc - VITC's online learning portal
-
-The website can be seen here at [http://54.169.169.135]
+Voloc in an online learning portal that allows education through share of media online.
